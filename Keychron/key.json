@@ -1,0 +1,347 @@
+
+    {
+        "@context": "https://schema.org/",
+        "@type": "Product",
+        "url": "https://www.keychron.com/products/keychron-k4-wireless-mechanical-keyboard-version-2",
+        "name": "Keychron K4 Wireless Mechanical Keyboard (Version 2)",
+        "image": "https://www.keychron.com/cdn/shop/products/Keychron-K4-version2-hot-swappable-wireless-mechanical-keyboard-96percent-layout-for-Mac-Windows-iOS-Gateron-switch-red-with-type-C-RGB-white-backlight_8e2ecfc8-4f2a-47db-b850-828e6d75c9c5.jpg?v=1644399874",
+        "description": "Please drop your email on &quot;Notify Me When Available&quot; if the product model is out of stock.Keychron K4 (Version 2) 96% Wireless mechanical keyboard has included keycaps for both Windows and Mac operating systems.",
+        "brand": {
+            "@type": "Brand",
+            "name": "K series"
+        },
+        "sku": "K4-A1",
+        "mpn": "K4-A1",
+        "weight": "1.208kg",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "description": "Judge.me Reviews",
+            "ratingValue": "4.41",
+            "reviewCount": "573"
+        },
+        "offers": [
+            {
+                "@type": "Offer",
+                "priceCurrency": "USD",
+                "price": "79.00",
+                "priceValidUntil": "2024-11-02",
+                "availability": "https://schema.org/OutOfStock",
+                "itemCondition": "https://schema.org/NewCondition",
+                "sku": "K4-A1",
+                "name": "White Backlight / Gateron G Pro Mechanical / Red",
+                "url": "https://www.keychron.com/products/keychron-k4-wireless-mechanical-keyboard-version-2?variant=32287332499545",
+                "seller": {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Keychron | Mechanical Keyboards for Mac, Windows and Android",
+    "description": "Keychron design and produces custom and wireless Mechanical Keyboard for Mac, Windows, iPhone and Android.",
+    "logo": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/keychron-blacktext2_564ecef7-85a4-458a-b79e-74b63fbcb70d.png?v=1647510916",
+    "image": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/keychron-blacktext2_564ecef7-85a4-458a-b79e-74b63fbcb70d.png?v=1647510916"}
+            },
+            {
+                "@type": "Offer",
+                "priceCurrency": "USD",
+                "price": "79.00",
+                "priceValidUntil": "2024-11-02",
+                "availability": "https://schema.org/OutOfStock",
+                "itemCondition": "https://schema.org/NewCondition",
+                "sku": "K4-A2",
+                "name": "White Backlight / Gateron G Pro Mechanical / Blue",
+                "url": "https://www.keychron.com/products/keychron-k4-wireless-mechanical-keyboard-version-2?variant=32287332532313",
+                "seller": {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Keychron | Mechanical Keyboards for Mac, Windows and Android",
+    "description": "Keychron design and produces custom and wireless Mechanical Keyboard for Mac, Windows, iPhone and Android.",
+    "logo": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/keychron-blacktext2_564ecef7-85a4-458a-b79e-74b63fbcb70d.png?v=1647510916",
+    "image": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/keychron-blacktext2_564ecef7-85a4-458a-b79e-74b63fbcb70d.png?v=1647510916"}
+            },
+            {
+                "@type": "Offer",
+                "priceCurrency": "USD",
+                "price": "79.00",
+                "priceValidUntil": "2024-11-02",
+                "availability": "https://schema.org/OutOfStock",
+                "itemCondition": "https://schema.org/NewCondition",
+                "sku": "K4-A3",
+                "name": "White Backlight / Gateron G Pro Mechanical / Brown",
+                "url": "https://www.keychron.com/products/keychron-k4-wireless-mechanical-keyboard-version-2?variant=32287332565081",
+                "seller": {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Keychron | Mechanical Keyboards for Mac, Windows and Android",
+    "description": "Keychron design and produces custom and wireless Mechanical Keyboard for Mac, Windows, iPhone and Android.",
+    "logo": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/keychron-blacktext2_564ecef7-85a4-458a-b79e-74b63fbcb70d.png?v=1647510916",
+    "image": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/keychron-blacktext2_564ecef7-85a4-458a-b79e-74b63fbcb70d.png?v=1647510916"}
+            },
+            {
+                "@type": "Offer",
+                "priceCurrency": "USD",
+                "price": "89.00",
+                "priceValidUntil": "2024-11-02",
+                "availability": "https://schema.org/OutOfStock",
+                "itemCondition": "https://schema.org/NewCondition",
+                "sku": "K4-B1",
+                "name": "RGB Backlight / Gateron G Pro Mechanical / Red",
+                "url": "https://www.keychron.com/products/keychron-k4-wireless-mechanical-keyboard-version-2?variant=32287332597849",
+                "seller": {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Keychron | Mechanical Keyboards for Mac, Windows and Android",
+    "description": "Keychron design and produces custom and wireless Mechanical Keyboard for Mac, Windows, iPhone and Android.",
+    "logo": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/keychron-blacktext2_564ecef7-85a4-458a-b79e-74b63fbcb70d.png?v=1647510916",
+    "image": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/keychron-blacktext2_564ecef7-85a4-458a-b79e-74b63fbcb70d.png?v=1647510916"}
+            },
+            {
+                "@type": "Offer",
+                "priceCurrency": "USD",
+                "price": "89.00",
+                "priceValidUntil": "2024-11-02",
+                "availability": "https://schema.org/OutOfStock",
+                "itemCondition": "https://schema.org/NewCondition",
+                "sku": "K4-B2",
+                "name": "RGB Backlight / Gateron G Pro Mechanical / Blue",
+                "url": "https://www.keychron.com/products/keychron-k4-wireless-mechanical-keyboard-version-2?variant=32287332630617",
+                "seller": {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Keychron | Mechanical Keyboards for Mac, Windows and Android",
+    "description": "Keychron design and produces custom and wireless Mechanical Keyboard for Mac, Windows, iPhone and Android.",
+    "logo": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/keychron-blacktext2_564ecef7-85a4-458a-b79e-74b63fbcb70d.png?v=1647510916",
+    "image": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/keychron-blacktext2_564ecef7-85a4-458a-b79e-74b63fbcb70d.png?v=1647510916"}
+            },
+            {
+                "@type": "Offer",
+                "priceCurrency": "USD",
+                "price": "89.00",
+                "priceValidUntil": "2024-11-02",
+                "availability": "https://schema.org/OutOfStock",
+                "itemCondition": "https://schema.org/NewCondition",
+                "sku": "K4-B3",
+                "name": "RGB Backlight / Gateron G Pro Mechanical / Brown",
+                "url": "https://www.keychron.com/products/keychron-k4-wireless-mechanical-keyboard-version-2?variant=32287332663385",
+                "seller": {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Keychron | Mechanical Keyboards for Mac, Windows and Android",
+    "description": "Keychron design and produces custom and wireless Mechanical Keyboard for Mac, Windows, iPhone and Android.",
+    "logo": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/keychron-blacktext2_564ecef7-85a4-458a-b79e-74b63fbcb70d.png?v=1647510916",
+    "image": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/keychron-blacktext2_564ecef7-85a4-458a-b79e-74b63fbcb70d.png?v=1647510916"}
+            },
+            {
+                "@type": "Offer",
+                "priceCurrency": "USD",
+                "price": "99.00",
+                "priceValidUntil": "2024-11-02",
+                "availability": "https://schema.org/OutOfStock",
+                "itemCondition": "https://schema.org/NewCondition",
+                "sku": "K4-C1",
+                "name": "RGB Backlight Aluminum Frame / Gateron G Pro Mechanical / Red",
+                "url": "https://www.keychron.com/products/keychron-k4-wireless-mechanical-keyboard-version-2?variant=32287332696153",
+                "seller": {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Keychron | Mechanical Keyboards for Mac, Windows and Android",
+    "description": "Keychron design and produces custom and wireless Mechanical Keyboard for Mac, Windows, iPhone and Android.",
+    "logo": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/keychron-blacktext2_564ecef7-85a4-458a-b79e-74b63fbcb70d.png?v=1647510916",
+    "image": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/keychron-blacktext2_564ecef7-85a4-458a-b79e-74b63fbcb70d.png?v=1647510916"}
+            },
+            {
+                "@type": "Offer",
+                "priceCurrency": "USD",
+                "price": "99.00",
+                "priceValidUntil": "2024-11-02",
+                "availability": "https://schema.org/OutOfStock",
+                "itemCondition": "https://schema.org/NewCondition",
+                "sku": "K4-C2",
+                "name": "RGB Backlight Aluminum Frame / Gateron G Pro Mechanical / Blue",
+                "url": "https://www.keychron.com/products/keychron-k4-wireless-mechanical-keyboard-version-2?variant=32287332728921",
+                "seller": {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Keychron | Mechanical Keyboards for Mac, Windows and Android",
+    "description": "Keychron design and produces custom and wireless Mechanical Keyboard for Mac, Windows, iPhone and Android.",
+    "logo": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/keychron-blacktext2_564ecef7-85a4-458a-b79e-74b63fbcb70d.png?v=1647510916",
+    "image": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/keychron-blacktext2_564ecef7-85a4-458a-b79e-74b63fbcb70d.png?v=1647510916"}
+            },
+            {
+                "@type": "Offer",
+                "priceCurrency": "USD",
+                "price": "99.00",
+                "priceValidUntil": "2024-11-02",
+                "availability": "https://schema.org/OutOfStock",
+                "itemCondition": "https://schema.org/NewCondition",
+                "sku": "K4-C3",
+                "name": "RGB Backlight Aluminum Frame / Gateron G Pro Mechanical / Brown",
+                "url": "https://www.keychron.com/products/keychron-k4-wireless-mechanical-keyboard-version-2?variant=32287332761689",
+                "seller": {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Keychron | Mechanical Keyboards for Mac, Windows and Android",
+    "description": "Keychron design and produces custom and wireless Mechanical Keyboard for Mac, Windows, iPhone and Android.",
+    "logo": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/keychron-blacktext2_564ecef7-85a4-458a-b79e-74b63fbcb70d.png?v=1647510916",
+    "image": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/keychron-blacktext2_564ecef7-85a4-458a-b79e-74b63fbcb70d.png?v=1647510916"}
+            },
+            {
+                "@type": "Offer",
+                "priceCurrency": "USD",
+                "price": "89.00",
+                "priceValidUntil": "2024-11-02",
+                "availability": "https://schema.org/OutOfStock",
+                "itemCondition": "https://schema.org/NewCondition",
+                "sku": "K4-G1",
+                "name": "White Backlight / Gateron G Pro Mechanical (Hot-Swappable) / Red",
+                "url": "https://www.keychron.com/products/keychron-k4-wireless-mechanical-keyboard-version-2?variant=32287332794457",
+                "seller": {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Keychron | Mechanical Keyboards for Mac, Windows and Android",
+    "description": "Keychron design and produces custom and wireless Mechanical Keyboard for Mac, Windows, iPhone and Android.",
+    "logo": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/keychron-blacktext2_564ecef7-85a4-458a-b79e-74b63fbcb70d.png?v=1647510916",
+    "image": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/keychron-blacktext2_564ecef7-85a4-458a-b79e-74b63fbcb70d.png?v=1647510916"}
+            },
+            {
+                "@type": "Offer",
+                "priceCurrency": "USD",
+                "price": "89.00",
+                "priceValidUntil": "2024-11-02",
+                "availability": "https://schema.org/OutOfStock",
+                "itemCondition": "https://schema.org/NewCondition",
+                "sku": "K4-G2",
+                "name": "White Backlight / Gateron G Pro Mechanical (Hot-Swappable) / Blue",
+                "url": "https://www.keychron.com/products/keychron-k4-wireless-mechanical-keyboard-version-2?variant=32287332827225",
+                "seller": {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Keychron | Mechanical Keyboards for Mac, Windows and Android",
+    "description": "Keychron design and produces custom and wireless Mechanical Keyboard for Mac, Windows, iPhone and Android.",
+    "logo": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/keychron-blacktext2_564ecef7-85a4-458a-b79e-74b63fbcb70d.png?v=1647510916",
+    "image": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/keychron-blacktext2_564ecef7-85a4-458a-b79e-74b63fbcb70d.png?v=1647510916"}
+            },
+            {
+                "@type": "Offer",
+                "priceCurrency": "USD",
+                "price": "89.00",
+                "priceValidUntil": "2024-11-02",
+                "availability": "https://schema.org/OutOfStock",
+                "itemCondition": "https://schema.org/NewCondition",
+                "sku": "K4-G3",
+                "name": "White Backlight / Gateron G Pro Mechanical (Hot-Swappable) / Brown",
+                "url": "https://www.keychron.com/products/keychron-k4-wireless-mechanical-keyboard-version-2?variant=32287343575129",
+                "seller": {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Keychron | Mechanical Keyboards for Mac, Windows and Android",
+    "description": "Keychron design and produces custom and wireless Mechanical Keyboard for Mac, Windows, iPhone and Android.",
+    "logo": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/keychron-blacktext2_564ecef7-85a4-458a-b79e-74b63fbcb70d.png?v=1647510916",
+    "image": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/keychron-blacktext2_564ecef7-85a4-458a-b79e-74b63fbcb70d.png?v=1647510916"}
+            },
+            {
+                "@type": "Offer",
+                "priceCurrency": "USD",
+                "price": "99.00",
+                "priceValidUntil": "2024-11-02",
+                "availability": "https://schema.org/OutOfStock",
+                "itemCondition": "https://schema.org/NewCondition",
+                "sku": "K4-H1",
+                "name": "RGB Backlight / Gateron G Pro Mechanical (Hot-Swappable) / Red",
+                "url": "https://www.keychron.com/products/keychron-k4-wireless-mechanical-keyboard-version-2?variant=32287344132185",
+                "seller": {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Keychron | Mechanical Keyboards for Mac, Windows and Android",
+    "description": "Keychron design and produces custom and wireless Mechanical Keyboard for Mac, Windows, iPhone and Android.",
+    "logo": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/keychron-blacktext2_564ecef7-85a4-458a-b79e-74b63fbcb70d.png?v=1647510916",
+    "image": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/keychron-blacktext2_564ecef7-85a4-458a-b79e-74b63fbcb70d.png?v=1647510916"}
+            },
+            {
+                "@type": "Offer",
+                "priceCurrency": "USD",
+                "price": "99.00",
+                "priceValidUntil": "2024-11-02",
+                "availability": "https://schema.org/OutOfStock",
+                "itemCondition": "https://schema.org/NewCondition",
+                "sku": "K4-H2",
+                "name": "RGB Backlight / Gateron G Pro Mechanical (Hot-Swappable) / Blue",
+                "url": "https://www.keychron.com/products/keychron-k4-wireless-mechanical-keyboard-version-2?variant=32287344361561",
+                "seller": {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Keychron | Mechanical Keyboards for Mac, Windows and Android",
+    "description": "Keychron design and produces custom and wireless Mechanical Keyboard for Mac, Windows, iPhone and Android.",
+    "logo": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/keychron-blacktext2_564ecef7-85a4-458a-b79e-74b63fbcb70d.png?v=1647510916",
+    "image": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/keychron-blacktext2_564ecef7-85a4-458a-b79e-74b63fbcb70d.png?v=1647510916"}
+            },
+            {
+                "@type": "Offer",
+                "priceCurrency": "USD",
+                "price": "99.00",
+                "priceValidUntil": "2024-11-02",
+                "availability": "https://schema.org/OutOfStock",
+                "itemCondition": "https://schema.org/NewCondition",
+                "sku": "K4-H3",
+                "name": "RGB Backlight / Gateron G Pro Mechanical (Hot-Swappable) / Brown",
+                "url": "https://www.keychron.com/products/keychron-k4-wireless-mechanical-keyboard-version-2?variant=32287344394329",
+                "seller": {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Keychron | Mechanical Keyboards for Mac, Windows and Android",
+    "description": "Keychron design and produces custom and wireless Mechanical Keyboard for Mac, Windows, iPhone and Android.",
+    "logo": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/keychron-blacktext2_564ecef7-85a4-458a-b79e-74b63fbcb70d.png?v=1647510916",
+    "image": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/keychron-blacktext2_564ecef7-85a4-458a-b79e-74b63fbcb70d.png?v=1647510916"}
+            },
+            {
+                "@type": "Offer",
+                "priceCurrency": "USD",
+                "price": "109.00",
+                "priceValidUntil": "2024-11-02",
+                "availability": "https://schema.org/OutOfStock",
+                "itemCondition": "https://schema.org/NewCondition",
+                "sku": "K4-J1",
+                "name": "RGB Backlight Aluminum Frame / Gateron G Pro Mechanical (Hot-Swappable) / Red",
+                "url": "https://www.keychron.com/products/keychron-k4-wireless-mechanical-keyboard-version-2?variant=32287344427097",
+                "seller": {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Keychron | Mechanical Keyboards for Mac, Windows and Android",
+    "description": "Keychron design and produces custom and wireless Mechanical Keyboard for Mac, Windows, iPhone and Android.",
+    "logo": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/keychron-blacktext2_564ecef7-85a4-458a-b79e-74b63fbcb70d.png?v=1647510916",
+    "image": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/keychron-blacktext2_564ecef7-85a4-458a-b79e-74b63fbcb70d.png?v=1647510916"}
+            },
+            {
+                "@type": "Offer",
+                "priceCurrency": "USD",
+                "price": "109.00",
+                "priceValidUntil": "2024-11-02",
+                "availability": "https://schema.org/OutOfStock",
+                "itemCondition": "https://schema.org/NewCondition",
+                "sku": "K4-J2",
+                "name": "RGB Backlight Aluminum Frame / Gateron G Pro Mechanical (Hot-Swappable) / Blue",
+                "url": "https://www.keychron.com/products/keychron-k4-wireless-mechanical-keyboard-version-2?variant=32287344558169",
+                "seller": {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Keychron | Mechanical Keyboards for Mac, Windows and Android",
+    "description": "Keychron design and produces custom and wireless Mechanical Keyboard for Mac, Windows, iPhone and Android.",
+    "logo": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/keychron-blacktext2_564ecef7-85a4-458a-b79e-74b63fbcb70d.png?v=1647510916",
+    "image": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/keychron-blacktext2_564ecef7-85a4-458a-b79e-74b63fbcb70d.png?v=1647510916"}
+            },
+            {
+                "@type": "Offer",
+                "priceCurrency": "USD",
+                "price": "109.00",
+                "priceValidUntil": "2024-11-02",
+                "availability": "https://schema.org/OutOfStock",
+                "itemCondition": "https://schema.org/NewCondition",
+                "sku": "K4-J3",
+                "name": "RGB Backlight Aluminum Frame / Gateron G Pro Mechanical (Hot-Swappable) / Brown",
+                "url": "https://www.keychron.com/products/keychron-k4-wireless-mechanical-keyboard-version-2?variant=32287344590937",
+                "seller": {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Keychron | Mechanical Keyboards for Mac, Windows and Android",
+    "description": "Keychron design and produces custom and wireless Mechanical Keyboard for Mac, Windows, iPhone and Android.",
+    "logo": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/keychron-blacktext2_564ecef7-85a4-458a-b79e-74b63fbcb70d.png?v=1647510916",
+    "image": "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/keychron-blacktext2_564ecef7-85a4-458a-b79e-74b63fbcb70d.png?v=1647510916"}
+            }]
+    }
